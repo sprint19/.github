@@ -11,7 +11,7 @@
 
 ### Make it work. Make it better.
 
-We learn how a business actually runs, then build only what fits: web and mobile apps, custom software, and Odoo automation. Founded in 2008, headquartered in BGC, Taguig City, Philippines, working with founders and operators on four continents.
+We learn how a business actually runs, then build only what fits: web and mobile apps, custom software, and Odoo automation. Founded in 2023, headquartered in BGC, Taguig City, Philippines, working with founders and operators on four continents.
 
 <br>
 
